@@ -1,23 +1,7 @@
 # Roblox Universe ID Fetcher
 
 A Python project designed to **fetch data from the Roblox API** with a clean, modular, and organized structure.
-
-## 📁 Folder Structure
-
-```
-roblox-universe-fetcher/
-│
-├── main.py              ← Main entry point of the project
-├── requirements.txt
-│
-└── core/                ← Core modules and logic
-    ├── __init__.py
-    ├── config.py
-    ├── api.py
-    ├── network.py
-    ├── ui.py
-    └── utils.py
-```
+<a href='https://ko-fi.com/riyhsal/5' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## ⚙️ How to Run
 
