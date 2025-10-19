@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+*.bak
+
+# Environment variables and secrets
+.env
+.env.*
+*.secret
+*.key
+*.json
+
+# User-specific configs or temporary data
+*.sqlite3
+*.db
+*.csv
+*.txt
+__logs__/
+__data__/
+
+# Backup files
+*.old
+*.orig
+
+# Ignore Python compiled files inside core/
+core/__pycache__/
