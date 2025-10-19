@@ -1,11 +1,16 @@
 # Roblox Universe ID Fetcher
 
 A Python project designed to **fetch data from the Roblox API** with a clean, modular, and organized structure.
+
 <a href='https://ko-fi.com/riyhsal/5' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## ⚙️ How to Run
 
-1. Make sure you have **Python 3.8+** installed.
+1. Clone Repository
+   ```bash
+   git clone https://github.com/ryshaal/roblox-universe-id-fetcher.git
+   cd roblox-universe-id-fetcher
+   ```
 2. Install the required dependencies:
 
    ```bash
